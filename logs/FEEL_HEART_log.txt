@@ -1,0 +1,4 @@
+=== HEART-BENCH (FEEL 备用) 评测开始（模式：['裸', '四层']，早停=False，λ=None，思考链=False，runs=3）===
+题目总数 673，抽样 40，每题重复 3 次
+──── 模式 [裸] ────
+  [run 1/3] seed_offset=42
