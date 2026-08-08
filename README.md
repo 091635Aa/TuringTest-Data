@@ -4,6 +4,7 @@
 
 > 主仓库：[091635Aa/SemanticEcho](https://github.com/091635Aa/SemanticEcho)
 > 展示仓库：[091635Aa/1.5B-Turing-Challenge](https://github.com/091635Aa/1.5B-Turing-Challenge)
+> English: [README.en.md](README.en.md)
 
 ## 目录结构
 
